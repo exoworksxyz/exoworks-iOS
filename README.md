@@ -115,21 +115,6 @@ npm run ios:run
 - **iOS-style elements**: Frosted glass effects, rounded cards, subtle glows
 - **Native iOS experience**: Full-screen app with status bar integration
 
-## 📊 Simulated Data
-
-All data in this app is **simulated/fake**:
-
-- **TPS**: ~2350 (simulated)
-- **CPU**: ~14% (simulated)
-- **RAM**: ~5.7GB (simulated)
-- **Transaction hashes**: Randomly generated
-- **Progress**: Starts at 72% (simulated)
-
-**Note**: This app does NOT include:
-- Real wallet connections
-- Real trading functionality
-- Real API calls
-- Any illegal or abusive functionality
 
 ## 🔧 Available Scripts
 
